@@ -1,12 +1,11 @@
-## **docker-spotify**
+## **docker-chrome**
 
-A docker container for [Spotify](https://www.google.com/chrome) via noVNC.
+A docker container for [Chrome](https://www.google.com/chrome) via noVNC.
 
 ### **Features:**
 
 -   Based on [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui)
--   Contains the official Spotify package
--   Supports audio device pass-through.
+-   Contains the official Chrome package
 -   Uses a volume for persistent config.
 
 ### **Build:**
